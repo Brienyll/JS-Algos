@@ -15,4 +15,5 @@ function palindrome(str) {
         
     return str === reversed;
 }
+
 palindrome("abcdefg");

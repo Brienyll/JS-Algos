@@ -28,4 +28,4 @@ return maxChar;
 
 }
 
-maxChar("apple 1231111");
+maxChar("apple 1231111"); // '1'
